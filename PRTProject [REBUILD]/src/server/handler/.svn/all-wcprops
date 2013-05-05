@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/rail1213_team3/!svn/ver/177/PRTProject%20%5BREBUILD%5D/src/server/handler
+END
+AndroidStationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rail1213_team3/!svn/ver/133/PRTProject%20%5BREBUILD%5D/src/server/handler/AndroidStationHandler.java
+END
+RideHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/rail1213_team3/!svn/ver/173/PRTProject%20%5BREBUILD%5D/src/server/handler/RideHandler.java
+END
+AndroidOnboardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rail1213_team3/!svn/ver/177/PRTProject%20%5BREBUILD%5D/src/server/handler/AndroidOnboardHandler.java
+END
+AndroidMobileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rail1213_team3/!svn/ver/133/PRTProject%20%5BREBUILD%5D/src/server/handler/AndroidMobileHandler.java
+END
+PathTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rail1213_team3/!svn/ver/140/PRTProject%20%5BREBUILD%5D/src/server/handler/PathTranslator.java
+END
+StaticObjectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rail1213_team3/!svn/ver/174/PRTProject%20%5BREBUILD%5D/src/server/handler/StaticObjectHandler.java
+END
+PodcarHandlerIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rail1213_team3/!svn/ver/174/PRTProject%20%5BREBUILD%5D/src/server/handler/PodcarHandlerIN.java
+END
+PodcarHandlerOUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rail1213_team3/!svn/ver/133/PRTProject%20%5BREBUILD%5D/src/server/handler/PodcarHandlerOUT.java
+END
